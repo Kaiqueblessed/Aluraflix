@@ -6,5 +6,12 @@ body{
 
 header{
     border-bottom: solid 2px rgb(250, 3, 3);
-    margin: 20px
+
+    margin: 20px;
+
+    font-size: 32px;
+
+    color:blueviolet;
 }
+
+
